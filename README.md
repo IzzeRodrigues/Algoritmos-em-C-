@@ -1,2 +1,2 @@
-# Algoritmos-em-C-
+# Algoritmos-em-CSharp
 Estudo de Algoritmos em C#. 
